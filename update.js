@@ -1,5 +1,5 @@
 const enJSON = require('./strings.en.json')
-const twJSON = require('./strings.json')
+const twJSON = require('./strings.zn.json')
 const fs = require('fs')
 
 for(let key1st in enJSON) {
